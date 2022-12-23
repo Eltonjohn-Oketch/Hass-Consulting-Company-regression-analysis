@@ -3,7 +3,7 @@
 
 This project studies the factors that affect housing prices using the given information on real estate properties. The project includes a model that will allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
 
-![image](https://user-images.githubusercontent.com/98347891/209401660-73754f6f-7bf0-4327-ba21-768b6a928dd4.png)
+![image](https://user-images.githubusercontent.com/98347891/209402083-ca512264-1f45-4666-87c7-cc26245db805.png)
 
 # Project Overview(Description)
 
